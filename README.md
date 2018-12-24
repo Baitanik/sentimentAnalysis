@@ -5,7 +5,7 @@ and it print the text and corresponding sentiment (Positive,Negative,Neutral) an
 
 #note : This will get only public tweets, which don't have any restriction imposed by user
 
-#Install the prequisits. 
+# Install the prequisits
 pip install -r requirements.txt
 
 Get the access token to get the tweets from developer.twitter.com.
@@ -14,7 +14,10 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens
 
 # Run the program
 
-python sentimentanalysis.py lenovo
+python sentimentanalysis.py <KeyWord>
+
+<KeyWord> put the keyword for which you want to get the tweets. 
+
 
 # output 
 It will first display the text, in the following line sentiment and its polarity value
