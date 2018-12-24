@@ -1,7 +1,7 @@
 # sentimentAnalysis
 This is very basic program for sentimentAnalysis of twitter feed about some specific keyword.
-It will continuously get the live feed from twitter for the specified keyword provided in th argument.
-and it print the text and corresponding sentiment (Positive,Negative,Neutral) and their polarity value .
+It will continuously get the live feed from twitter for the specified keyword provided in argument.
+and it will print the text and corresponding sentiment (Positive,Negative,Neutral) and their polarity value .
 
 #note : This will get only public tweets, which don't have any restriction imposed by user
 
