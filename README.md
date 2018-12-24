@@ -6,6 +6,7 @@ and it print the text and corresponding sentiment (Positive,Negative,Neutral) an
 #note : This will get only public tweets, which don't have any restriction imposed by user
 
 # Install the prequisits
+Install the tweepy and Texblob python libs
 pip install -r requirements.txt
 
 Get the access token to get the tweets from developer.twitter.com.
@@ -28,7 +29,10 @@ Sentiment : negative , Polarity Value :-0.6999999999999998
 b'William Shatner Says #MeToo Movement Not Considering Context - entertainment - Lenovo https://t.co/X2yLgm71RB'
 Sentiment : neutral , Polarity Value :0.0
 
-
+# References 
+https://tweepy.readthedocs.io/en/v3.5.0/
+https://textblob.readthedocs.io/en/dev/index.html
+https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
 
 
 
