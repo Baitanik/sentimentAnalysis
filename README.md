@@ -5,7 +5,7 @@ and it print the text and corresponding sentiment (Positive,Negative,Neutral) an
 
 #note : This will get only public tweets, which don't have any restriction imposed by user
 
-# Install the prequisits
+# Install the prerequisites
 Install the tweepy and Texblob python libs
 pip install -r requirements.txt
 
