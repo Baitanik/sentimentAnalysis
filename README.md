@@ -26,6 +26,7 @@ e.g python sentimentanalysis.py lenovo
 
 b'RT @howtogeek: This is potentially bad news for some Lenovo laptop users in enterprise environments. https://t.co/ZTcDZs1Y4F by @Summerson'
 Sentiment : negative , Polarity Value :-0.6999999999999998
+
 b'William Shatner Says #MeToo Movement Not Considering Context - entertainment - Lenovo https://t.co/X2yLgm71RB'
 Sentiment : neutral , Polarity Value :0.0
 
